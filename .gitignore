@@ -1,6 +1,11 @@
 .venv/
 __pycache__/
-output/
-*.pyc
-*.zip
+
+build/
+dist/
+
+*.spec
 *.exe
+*.zip
+
+output/
